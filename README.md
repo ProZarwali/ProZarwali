@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProZarwali
-- 👀 I’m interested in ...Java-Script
-- 🌱 I’m currently learning ...Boot-Strap
+- 👀 I’m interested in ... React + Tailwind
+- 🌱 I’m currently workin in ... React + Tailwind 
 - 💞️ I’m looking to collaborate on ...working togather and explore the world of Tech.
 - 📫 How to reach me ...syedzarwali1781@gmail.com
 
