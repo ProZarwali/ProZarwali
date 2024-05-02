@@ -52,7 +52,7 @@
  * I'm currently working on 🔭 building **Apps using React** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1CQ6pnoQkhdUeCYbiPQqn-xssoBEJ9eyx/view?usp=drive_link)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Zarwali's github stats](https://github-readme-stats.vercel.app/api?username=ProZarwali&show_icons=true&hide=[%22issues%22])
